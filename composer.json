@@ -18,5 +18,6 @@
             "gulongjie\\aliyun\\sms\\": "src/",
             "Aliyun\\": "src/lib/"
         }
-    }
+    },
+    "version": "1.0.0"
 }
