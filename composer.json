@@ -1,0 +1,22 @@
+{
+    "name": "gulongjie/aliyun-dysms-php-sdk",
+    "description": "aliyun sms for php",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "18329796260",
+            "email": "18329796260@163.com"
+        }
+    ],
+    "minimum-stability":"stable",
+    "require": {
+        "php": ">5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "glj\\aliyun\\sms\\": "src/",
+            "Aliyun\\": "src/lib/"
+        }
+    }
+}
