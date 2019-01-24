@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "glj\\aliyun\\sms\\": "src/",
+            "gulongjie\\aliyun\\sms\\": "src/",
             "Aliyun\\": "src/lib/"
         }
     }
